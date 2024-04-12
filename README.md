@@ -1,4 +1,4 @@
 # p-gina-web
 una tienda online
-## desciptión
+## descipción
 hola, que tal esyoy aprendiendo got
