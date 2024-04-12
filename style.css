@@ -1,0 +1,19 @@
+body {
+    background-color: brown;
+}
+
+h1 {
+    position: absolute;
+    color: red;
+}
+
+a {
+    color: black;
+
+}
+p {
+    border-radius: 10%;
+    background-color: white;
+    position: absolute;
+    color: black;
+}
